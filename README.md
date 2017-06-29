@@ -4,12 +4,11 @@
 
 ### Description
 
-✋ Stop cluttering your desktop with screenshots — Instashot lets you send them directly where you want, with one touch.
-
+✋ Stop cluttering your desktop with screenshots — Instashot lets you send them directly where you want them and allows you to screenshot with one touch.
 
 ### Features
   Screenshot Shortcut:
-  - CMD + SHIFT + S 
+  - SHIFT + S 
   ads
   
 ## Apple Store 
@@ -31,4 +30,4 @@ ZEUSOFCS
 
 
 
-# Development Status : [41%]
+# Development Status : [99%]
