@@ -9,7 +9,6 @@
 ### Features
   Screenshot Shortcut:
   - SHIFT + S 
-  ads
   
 ## Apple Store 
 
