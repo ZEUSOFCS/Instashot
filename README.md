@@ -11,7 +11,7 @@
   - SHIFT + S 
   
 ## Apple Store 
-Beta
+Beta 1.0
 
 ## Developer  🖱️ 
 
