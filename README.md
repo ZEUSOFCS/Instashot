@@ -1,5 +1,4 @@
-
-![instashotpreview 2x](https://cloud.githubusercontent.com/assets/19171147/26785612/4b9eeda6-49d1-11e7-85c4-532fec10ae6e.png)
+![download icon 2x](https://user-images.githubusercontent.com/19171147/28167532-e6e1b118-67a9-11e7-8a90-d76bbb770840.png)
 
 ### Description
 
