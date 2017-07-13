@@ -10,7 +10,7 @@
   - SHIFT + S 
   
 ## Apple Store 
-Beta 1.0
+Beta 1.0 [Release]
 
 ## Developer  🖱️ 
 
@@ -28,4 +28,4 @@ ZEUSOFCS
 
 
 
-# Development Status : [99%]
+# Development Status : [99.9%]
