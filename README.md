@@ -2,7 +2,7 @@
 
 ### Description
 
-Screenshot with Instashot- screenshot at one touch, ✋ no more cluttering your desktop as Instashot allows you to review and send screenshots directly where you want.
+Screenshot with Instashot- screenshot at one touch. ✋ No more cluttering your desktop as Instashot allows you to review and send screenshots directly where you want.
 
 ### Features
   Screenshot Shortcut:
