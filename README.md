@@ -1,4 +1,4 @@
-![ig promo 2x](https://user-images.githubusercontent.com/19171147/28304529-0db863da-6b66-11e7-95e1-9cef39488ef9.png)
+![header opt 2 2x](https://user-images.githubusercontent.com/19171147/28304897-ad122000-6b67-11e7-99ea-ab193c746db9.png)
 
 ### Description
 
