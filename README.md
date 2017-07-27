@@ -8,7 +8,7 @@ Screenshot with Instashot- screenshot at one touch. ✋ No more cluttering your 
 ## Features
 - Preview Screenshot
 ## Usage
-  - Press <kbd>CMD ⌘</kbd> + <kbd>S</kbd> to take a rectangular selection of the screen
+  - Press <kbd>CMD ⌘</kbd> + <kbd>S</kbd> to take a rectangular selection screenshot
   
 ## Apple Store 
 Beta 1.0 [Release]
