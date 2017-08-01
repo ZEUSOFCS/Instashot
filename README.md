@@ -24,9 +24,5 @@ ZEUSOFCS
 
 
 
-wwwwwr4fr
-
-
-
 
 # Development Status : [93.9%]
