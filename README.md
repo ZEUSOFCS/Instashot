@@ -1,9 +1,7 @@
 ![header opt 2 2x](https://user-images.githubusercontent.com/19171147/28440388-0b19ebac-6d74-11e7-8240-499035fbbbdf.png)
-
-## Overview of Instashot
 ###### Screenshot so easy a  :dog:  can do it!
 
-##  Overview of Instashot 
+## Overview of Instashot 
 
 #### English 🇺🇸
 ✋ No more cluttering your desktop. Instashot allows users to review and send screenshots directly where they want with one touch.
