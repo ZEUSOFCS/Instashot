@@ -6,9 +6,13 @@
 Screenshot with Instashot- screenshot at one touch. ✋ No more cluttering your desktop as Instashot allows you to review and send screenshots directly where you want.
 
 ### Features
-- Preview Screenshot
+- Preview recent Screenshots
+- Change Screenshot Saved location
+
 ## Usage
   - Press <kbd>CMD ⌘</kbd> + <kbd>S</kbd> to take a rectangular selection screenshot
+  or
+  - Press status icon
   
 
 ### Developer  🖱️ 
