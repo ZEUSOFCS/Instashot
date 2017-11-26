@@ -1,15 +1,28 @@
--![header opt 2 2x](https://user-images.githubusercontent.com/19171147/28440388-0b19ebac-6d74-11e7-8240-499035fbbbdf.png)
+![header opt 2 2x](https://user-images.githubusercontent.com/19171147/28440388-0b19ebac-6d74-11e7-8240-499035fbbbdf.png)
 
+## Overview of Instashot
+###### Easy way to screenshot 
 
-## Description
+### Description
+✋ No more cluttering your desktop. Instashot allows users to review and send screenshots directly where they want with one touch.
 
-Screenshot with Instashot- screenshot at one touch. ✋ No more cluttering your desktop as Instashot allows you to review and send screenshots directly where you want.
 
 ### Features
-- Preview recent Screenshots
-- Change Screenshot Saved location
 
-## Usage
+### [Preview] 
+- Preview recent Screenshots
+
+### [Capture]
+- Capture or clip selected area, or all visible portion
+
+### [Save and Share]
+- Change defualt location of screenshots
+- Save to Local 
+
+### [Notification]
+- Notifies you when screenshot was successful with save location and time
+
+### Usage
   - Press <kbd>CMD ⌘</kbd> + <kbd>S</kbd> to take a rectangular selection screenshot
   or
   - Press status icon
