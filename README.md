@@ -7,22 +7,22 @@
 ✋ No more cluttering your desktop. Instashot allows users to review and send screenshots directly where they want with one touch.
 
 
-### Features
+## Features
 
-### [Preview] 
+##### Preview
 - Preview recent Screenshots
 
-### [Capture]
+##### Capture
 - Capture or clip selected area, or all visible portion
 
-### [Save and Share]
+##### Save and Share
 - Change defualt location of screenshots
 - Save to Local 
 
-### [Notification]
+#### [Notification]
 - Notifies you when screenshot was successful with save location and time
 
-### Usage
+#### Usage
   - Press <kbd>CMD ⌘</kbd> + <kbd>S</kbd> to take a rectangular selection screenshot
   or
   - Press status icon
