@@ -5,19 +5,17 @@
 
 Screenshot with Instashot- screenshot at one touch. ✋ No more cluttering your desktop as Instashot allows you to review and send screenshots directly where you want.
 
-## Features
+### Features
 - Preview Screenshot
 ## Usage
   - Press <kbd>CMD ⌘</kbd> + <kbd>S</kbd> to take a rectangular selection screenshot
   
-## Apple Store 
-Beta 1.0 [Release]
 
-## Developer  🖱️ 
+### Developer  🖱️ 
 
 ZEUSOFCS
 
-## UI/UX Designer 👨‍🎨
+### UI/UX Designer 👨‍🎨
 
 ZEUSOFCS
 
@@ -25,4 +23,4 @@ ZEUSOFCS
 
 
 
-# Development Status : [93.9%]
+#### Development Status : [93.9%]
