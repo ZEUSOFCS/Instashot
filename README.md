@@ -35,13 +35,18 @@
   
 
 ##  What's Next?
-- Improved UI to make it easier for users to hide applications
+- Improved UI to make it easier screenshot
+- Fixed Bugs
 - Improved Performance
-- Provide users with the option on how to diplay Casilla (e.g. Status bar, Desktop icon)
-
+- Release to App Store
 
 ## Credits
- Code made with lots of ♥️ by [Dorian Javä Brown](www.dorianbrown.me) 
+Code made with lots of ♥️ by [Dorian Javä Brown](www.dorianbrown.me) 
+ 
+###### Development Status : [95.9%]
+
+
+
 
 
 
@@ -68,17 +73,4 @@ See [casilla.co](http://casilla.co) for more product-oriented
 information about Casilla.
 -->
 
-##  What's Next?
-- Improved UI to make it easier screenshot
-- Fixed Bugs
-- Improved Performance
-- Release to App Store
 
-
-## Credits
- Code made with lots of ♥️ by [Dorian Javä Brown](www.dorianbrown.me) 
-  - **Developer 👨🏽‍💻  & UI/UX Designer 👨🏽‍🎨 :** [Dorian Javä Brown](www.dorianbrown.me) 
- 
-
-
-#### Development Status : [93.9%]
