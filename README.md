@@ -19,10 +19,10 @@
 - Change defualt location of screenshots
 - Save to Local 
 
-#### [Notification]
+#### Notification
 - Notifies you when screenshot was successful with save location and time
 
-#### Usage
+## Usage
   - Press <kbd>CMD ⌘</kbd> + <kbd>S</kbd> to take a rectangular selection screenshot
   or
   - Press status icon
