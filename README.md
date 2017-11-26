@@ -1,9 +1,8 @@
 ![header opt 2 2x](https://user-images.githubusercontent.com/19171147/28440388-0b19ebac-6d74-11e7-8240-499035fbbbdf.png)
 
 ## Overview of Instashot
-###### Screenshot so easy a :dog: can do it
+###### Screenshot so easy a  :dog:  can do it!
 
-###### Subtitle
 ##  Overview of Instashot 
 
 #### English 🇺🇸
